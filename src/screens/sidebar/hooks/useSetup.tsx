@@ -21,7 +21,7 @@ export const data = {
         isActive: true,
         items: [
           {
-            title: "History",
+            title: "Realizar Vendas",
             url: "#",
           },
           {

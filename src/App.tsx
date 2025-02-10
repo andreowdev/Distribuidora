@@ -1,10 +1,9 @@
-import SidebarMain from "./screens/sidebar/components/Sidebar"
-
+import Home from "./screens/Home/Home"
 
 function App() {
     return (
         <div>
-            <SidebarMain />
+            <Home />
         </div>
     )
   }
